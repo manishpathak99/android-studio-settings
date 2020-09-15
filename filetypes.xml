@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="locale_bloc_test" type="Dart" />
+      <mapping pattern="jenkinsfile*" type="Groovy" />
     </extensionMap>
   </component>
 </application>
